@@ -67,7 +67,7 @@ function checkAnswer(answer) {
   askQuestion();
 };
 
-function endGame() {
+function finalGame() {
   alert("Game Over");
 
   alert(
